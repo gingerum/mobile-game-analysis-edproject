@@ -9,12 +9,12 @@
 
 ### Навигация
 
-#### 1. Retention 
+#### [1. Retention](https://github.com/gingerum/mobile-game-analysis-edproject/blob/main/1_Retention.ipynb) 
 - Расчет Classic Retention (с фокусом на D1, D7, D28/30) - Python (pandas).
 - Визуализация результатов расчета - Python (seaborn.heatmap).
 - Оценка показателей метрики, сравнение с бенчмарками индустрии (по данным AppFollow), план углубления анализа по метрике для выявления причин оттока.
 
-#### 2. A/B тестирование 
+#### [2. A/B тестирование](https://github.com/gingerum/mobile-game-analysis-edproject/blob/main/2_AB_test.ipynb) 
 - Выгрузка данных с внешнего источника - Python (requests, urllib).
 - Обзор основных нюансов дизайна, необходимых для корректного вывода.
 - Описательная аналитика и выявление аномалий - Python (pandas, seaborn).
@@ -23,7 +23,7 @@
     - Paying Share - z-тест пропорций
 - Выводы и рекомендации с учетом неопределенности в дизайне.
 
-#### 3. Метрики внутриигрового события
+#### [3. Метрики внутриигрового события](https://github.com/gingerum/mobile-game-analysis-edproject/blob/main/3_Metrics.md)
 Метрики события с расшифровкой (метод расчета, ожидаемые инсайты).
 - Ключевые KPI для событий
 - Воронка прохождения события
